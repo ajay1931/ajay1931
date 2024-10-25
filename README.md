@@ -20,6 +20,27 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/user-attachments/assets/94f308cf-5a27-463d-9f30-da3995f8ac32" height="40" width="40">
+    <img src="https://github.com/user-attachments/assets/94f308cf-5a27-463d-9f30-da3995f8ac32" height="40" width="40">  
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" height="40" width="40">
+  </a> 
+  <a href="https://www.w3schools.com/bootstrap/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" height="40" width="40">
+  </a> 
+  <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" height="40" width="40">
+  </a> 
+  <a href="https://www.w3schools.com/react/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="40" width="40">
+  </a> 
+  <a href="https://www.w3schools.com/nodejs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"  height="40" width="40">
+  </a> 
+  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify"  height="40" >
+  </a> 
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.prod.website-files.com/655b60964be1a1b36c746790/655b60964be1a1b36c746d41_646dfce3b9c4849f6e401bff_supabase-logo-icon_1.png" alt="supabase"  height="40" width="40">
   </a>
 </p>
