@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gnanaprakash S</h1>
+![image](https://github.com/user-attachments/assets/94f308cf-5a27-463d-9f30-da3995f8ac32)<h1 align="center">Hi 👋, I'm Gnanaprakash S</h1>
 <h3 align="center">Passionate about expanding my skills in JavaScript and web development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay1931&label=Profile%20views&color=0e75b6&style=flat" alt="ajay1931" /> </p>
@@ -20,6 +20,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-    <img src="picture.jpg" height="40" width="40">
+    <img src="https://www.flaticon.com/free-icon/html-5_919827" height="40" width="40">
   </a>
 </p>
