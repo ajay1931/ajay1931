@@ -44,3 +44,7 @@
     <img src="https://cdn.prod.website-files.com/655b60964be1a1b36c746790/655b60964be1a1b36c746d41_646dfce3b9c4849f6e401bff_supabase-logo-icon_1.png" alt="supabase"  height="40" width="40">
   </a>
 </p>
+
+<h3>Leetcode:</h3>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/prakash1931?theme=radical&font=Roboto%20Serif&ext=contest)
