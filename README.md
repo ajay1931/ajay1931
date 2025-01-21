@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ajay1931&theme=onedark" alt="ajay1931" /> </p>
 
 
-- 📫 How to reach me **ajayprakash032@gmail.com**
+- 📫 How to reach me **gnanaprakashselvaraj99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
